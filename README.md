@@ -27,7 +27,7 @@ termux-setup-storage && pkg update && pkg upgrade && pkg install python && pkg i
 DARK-NET
 ```
 # Demo SS:⬇️
-<img src="https://github.com/DARK-NET-604/FB-Brute/blob/main/20240923_072304.jpg">
+<img src="https://github.com/DARK-NET-604/FB-Brute/blob/main/20240923_075313.jpg">
 
 ## Find Me on :
 
