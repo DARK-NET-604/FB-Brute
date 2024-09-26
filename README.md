@@ -9,7 +9,7 @@ pkg update
 pkg upgrade
 pkg install python
 pkg install git
-pkg install ruby4B
+pkg install ruby
 gem install lolcat
 rm -rf FB-Brute
 git clone https://github.com/DARK-NET-604/FB-Brute
