@@ -2,6 +2,11 @@
 A Working Tools For Facebook Terget I'd Hack By Bruteforce from DARK-NET
 
 <br><br>
+
+# Tool Password:⬇️
+```
+DARK-NET
+```
 # COMMANDS:⬇️
 ```
 termux-setup-storage
@@ -18,16 +23,6 @@ pip install mechanize
 cd FB-Brute
 python brute.py
 ```
-# Short Command:⬇️
-```
-termux-setup-storage && pkg update && pkg upgrade && pkg install python && pkg install git && pkg install ruby && gem install lolcat && rm -rf FB-Brute && git clone https://github.com/DARK-NET-604/FB-Brute && pip install requests && pip install mechanize && cd FB-Brute && python brute.py
-```
-# Tool Password:⬇️
-```
-DARK-NET
-```
-# Demo SS:⬇️
-<img src="https://github.com/DARK-NET-604/FB-Brute/blob/main/20240923_075313.jpg">
 
 ## Find Me on :
 
